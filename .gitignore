@@ -1,0 +1,13 @@
+# Vivado 忽略文件规则
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.vcd
+.Xil/
+vivado/project_name.cache/
+vivado/project_name.hw/
+vivado/project_name.sim/
+vivado/project_name.runs/
+vivado/project_name.ip_user_files/
