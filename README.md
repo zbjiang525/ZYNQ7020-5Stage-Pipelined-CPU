@@ -21,6 +21,4 @@ ZYNQ7020-5Stage-CPU/
 ├── sim/              # 仿真文件 (Testbench) 
 ├── tools/            # 汇编器、16进制转换脚本 (用于生成指令内存初始化文件)
 ├── vivado_project/   # Vivado 工程配置 (仅包含 .xpr, 约束文件和 tcl 脚本)
-└── README.md.md           
-
-
+└── README.md           
